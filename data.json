@@ -1,0 +1,38 @@
+{
+    "users": [],
+    "requests": [],
+    "industries": [
+        {
+            "id": 1,
+            "name": "EcoMetal Recyclers",
+            "location": "12 Industrial Area, Delhi",
+            "contact": "+91 9876543210",
+            "wasteTypes": ["metal", "e-waste"],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "GreenTech E-Waste",
+            "location": "34 Tech Park, Bangalore",
+            "contact": "+91 8765432109",
+            "wasteTypes": ["e-waste"],
+            "rating": 4.5
+        },
+        {
+            "id": 3,
+            "name": "Textile Renewal Co.",
+            "location": "56 Textile Zone, Mumbai",
+            "contact": "+91 7654321098",
+            "wasteTypes": ["clothes"],
+            "rating": 4.2
+        },
+        {
+            "id": 4,
+            "name": "PaperCycle Industries",
+            "location": "78 Green Park, Chennai",
+            "contact": "+91 6543210987",
+            "wasteTypes": ["paper"],
+            "rating": 4.0
+        }
+    ]
+}
